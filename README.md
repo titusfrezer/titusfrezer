@@ -5,7 +5,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working at KurazTech(kuraztech.com)
-- 🌱 I’m currently learning TDD
-- 👯 I’m looking to collaborate on laravel and vue.js projects
-- 🤔 I’m looking for help on learning TDD, Docker
+- 🌱 I’m currently learning Devops
+- 👯 I’m looking to collaborate on laravel projects
+- 🤔 I’m looking for help on learning Nest.js, Devops
 - 📫 How to reach me: ... Linkedin => https://www.linkedin.com/in/tito-frezer-3227661b8/
